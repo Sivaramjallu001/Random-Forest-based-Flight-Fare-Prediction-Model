@@ -1,4 +1,5 @@
 Flight Fare Prediction ✈️✈️✈️✈️✈️
+-----
 
 Predicting flight fares is a critical problem in the aviation industry and can help customers plan their journeys efficiently. This project uses machine learning techniques to predict flight fares based on features like date of journey, source, destination, airline, and more.
 
@@ -15,7 +16,6 @@ Advanced models like Random Forest and Gradient Boosting for better accuracy.
 Web Application: A user-friendly web interface built with Flask to allow users to input travel details and get fare predictions.
 Deployment: Deployed on Heroku with high uptime and reliability.
 
----
 
 📂 Dataset
 ---
@@ -29,11 +29,10 @@ Duration: Total travel time.
 Number of Stops: Number of stops during the flight.
 Price: The fare of the flight (target variable).
 
----
-
 Example Data:
-
 ---
+<img width="730" alt="Screenshot 2024-11-08 at 17 12 51" src="https://github.com/user-attachments/assets/c85b878d-7a94-4e00-820d-39422319f653">
+
 
 🛠️ Technologies Used
 ---
