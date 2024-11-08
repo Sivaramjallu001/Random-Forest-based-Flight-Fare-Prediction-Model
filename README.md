@@ -43,16 +43,12 @@ Machine Learning Models: Decision Tree, Random Forest, Gradient Boosting
 Deployment: Heroku
 Frontend: HTML, CSS, Bootstrap
 
----
-
 📊 Model Evaluation
 ---
 
 Train-Test Split: 80-20
 Metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE), R-squared Score
 Best Model: Random Forest achieved an R-squared score of 85%, indicating a strong fit to the data.
-
----
 
 🔮 Future Enhancements
 ---
@@ -62,12 +58,8 @@ Advanced Models: Experiment with deep learning models (e.g., GRU or LSTM).
 Improved UI: Create a more interactive and visually appealing interface.
 Global Scope: Expand the dataset to include international flights.
 
----
-
 🤝 Contributing
 ---
-
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request. Ensure that your code is well-documented and tested.
 
----
 
